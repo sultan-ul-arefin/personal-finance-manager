@@ -1,4 +1,3 @@
-```markdown
 # 📱 Personal Finance Manager
 
 A mobile application for Android, developed to help users manage their personal finances with ease and clarity.
@@ -65,5 +64,3 @@ Interested in contributing or collaborating? Please open an issue or submit a pu
 ## 📜 License
 
 This project is open-source and available under the [MIT License](LICENSE).
-
----
